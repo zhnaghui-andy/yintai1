@@ -1,0 +1,13 @@
+body,br,h1,h2,h3,h4,h5,h6,ul,ol,li,form,input,textarea{
+    padding:0;
+    margin:0;
+    list-style:none;/*È¥ÑשÊ½*/
+  }
+a{
+   text-decoration:none;
+  color:#666;
+  }
+   img{
+   display:block;
+   border:none;
+   }
